@@ -1,0 +1,91 @@
+{
+    "version": 1,
+    "name": "[Your Name]",
+    "description": "IT Manager Analyst Candidate | Senior Product Designer",
+    "sections": [
+        {
+            "title": "About Me",
+            "type": "text",
+            "content": "Senior Product Designer with 7+ years of experience leading digital product strategy for FinTech, SaaS, and Media sectors. Specialist in analyzing complex business requirements and translating them into intuitive user interfaces and logical workflows. Proven track record in managing product lifecycles, optimizing user journeys for high-volume transaction systems, and bridging the gap between business stakeholders and technical engineering teams."
+        },
+        {
+            "title": "Experience",
+            "type": "list",
+            "items": [
+                {
+                    "title": "Senior Product Designer (Strategy Lead) at TabSquare",
+                    "description": "Key Focus: Enterprise Product Design & FinTech. Designed high-velocity kiosk interfaces for 200+ enterprise clients and led strategy for smart terminal payments achieving SGD 10,000 monthly transaction volume.",
+                    "url": "https://tabsquare.com",
+                    "date": "[Start Date] – Present"
+                },
+                {
+                    "title": "Product Design Mentor at Binar Academy",
+                    "description": "Key Focus: Education & Talent Development. Mentored a diverse cohort of 25 students with a 20% immediate placement rate within 3 months.",
+                    "url": "https://binaracademy.com",
+                    "date": "[Start Date] – [End Date]"
+                },
+                {
+                    "title": "Product Designer (Platform Transformation) at The Shonet",
+                    "description": "Key Focus: Scalability & Design Systems. Led the pivot of a 5M+ view media platform to Social Commerce and engineered an internal dashboard reducing manual workload by 60%.",
+                    "url": "",
+                    "date": "Dec 2019 – Dec 2020"
+                },
+                {
+                    "title": "UI/UX Designer at Qerja",
+                    "description": "Key Focus: Microservices & QA. Managed lifecycle for QTrainer Dashboard and 3 microservices. Standardized design audits and UAT protocols.",
+                    "url": "https://qerja.com",
+                    "date": "Jul 2019 – Dec 2019"
+                },
+                {
+                    "title": "UI Designer at ManyPixels",
+                    "description": "Key Focus: Service Delivery. Successfully executed 90+ client tickets with 100% satisfaction rate in a high-volume global agency environment.",
+                    "url": "https://manypixels.co",
+                    "date": "Nov 2018 – Apr 2019"
+                },
+                {
+                    "title": "UI/UX Designer at ReadyDok Indonesia",
+                    "description": "Key Focus: Mobile App Design. Re-engineered mobile booking workflows to remove friction points and aligned digital platforms with new business visions.",
+                    "url": "",
+                    "date": "May 2018 – Nov 2018"
+                },
+                {
+                    "title": "UI/UX Designer Intern at Ruangguru",
+                    "description": "Selected top 9% of 1100+ applicants. Conducted rigorous usability testing for 'Ruangbelajar' to drive data-backed product redesigns.",
+                    "url": "https://ruangguru.com",
+                    "date": "May 2017 – Aug 2017"
+                }
+            ]
+        },
+        {
+            "title": "Education",
+            "type": "list",
+            "items": [
+                {
+                    "title": "Telkom University",
+                    "description": "Bachelor of Computer Science, Informatics Engineering (GPA: 3.19). Coursework: Database Modeling, Data Structures, Software Engineering.",
+                    "url": "https://telkomuniversity.ac.id",
+                    "date": "2014 – 2018"
+                }
+            ]
+        },
+        {
+            "title": "Core Competencies",
+            "type": "text",
+            "content": "Hard Skills: Product Lifecycle Management (PLM), Quantitative & Qualitative Analysis, SQL, Advanced Excel, UAT. \nSoft Skills: Strategic Planning, Stakeholder Management, Analytical Thinking."
+        },
+        {
+            "title": "Contact & Socials",
+            "type": "links",
+            "links": [
+                {
+                    "title": "LinkedIn",
+                    "url": "[LinkedIn Profile URL]"
+                },
+                {
+                    "title": "Email",
+                    "url": "mailto:[Email Address]"
+                }
+            ]
+        }
+    ]
+}
