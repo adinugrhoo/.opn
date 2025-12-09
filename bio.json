@@ -1,29 +1,53 @@
 {
     "version": 1,
-    "name": "Nick Denisov",
-    "description": "designer with engineer mindset",
+    "name": "Adi Nugroho",
+    "description": "Designer <> Engineer",
     "sections": [
         {
             "title": "Jobs",
             "type": "list",
             "items": [
                 {
-                    "title": "VK",
-                    "description": "Design System Designer",
-                    "url": "https://vk.company/",
-                    "date": "2024 – now"
+                    "title": "TabSquare",
+                    "description": "Senior Product Designer",
+                    "url": "https://tabsquare.ai",
+                    "date": "Dec 2020 – Present"
                 },
                 {
-                    "title": "M18",
-                    "description": "UX/UI Desiner",
-                    "url": "https://m18.ru/",
-                    "date": "2022 – 2023"
+                    "title": "Binar Academy",
+                    "description": "Design Mentor & Facilitator",
+                    "url": "https://binaracademy.com/",
+                    "date": "Mar 2022 – Aug 2022"
                 },
                 {
-                    "title": "Yandex Practicum",
-                    "description": "Reviewer",
-                    "url": "https://practicum.yandex.ru/",
-                    "date": "2023"
+                    "title": "The Shonet",
+                    "description": "Product Designer",
+                    "url": "",
+                    "date": "Dec 2019 – Dec 2020"
+                },
+                {
+                    "title": "Qareer Group Asia",
+                    "description": "UX Designer",
+                    "url": "https://qerjagroup.com/",
+                    "date": "Jul 2019 – Dec 2019"
+                },
+                {
+                    "title": "ManyPixels",
+                    "description": "UI Designer",
+                    "url": "https://manypixels.co",
+                    "date": "Nov 2018 – Apr 2019"
+                },
+                {
+                    "title": "ReadyDok Indonesia",
+                    "description": "UX Designer",
+                    "url": "",
+                    "date": "May 2018 – Nov 2018"
+                },
+                {
+                    "title": "Ruangguru",
+                    "description": "UX Designer Intern",
+                    "url": "https://ruangguru.com",
+                    "date": "May 2017 – Aug 2017"
                 }
             ]
         },
@@ -32,22 +56,10 @@
             "type": "list",
             "items": [
                 {
-                    "title": "VKUI",
-                    "description": "Cross platfrom design system",
-                    "url": "https://vkui.io/",
+                    "title": "Voice In Silence",
+                    "description": "Design Contributor",
+                    "url": "https://voiceinsilence.id/",
                     "date": "2025"
-                },
-                {
-                    "title": "type",
-                    "description": "Zen text editor",
-                    "url": "https://type.baby/",
-                    "date": "2024"
-                },
-                {
-                    "title": "Figma plugins",
-                    "description": "Some workflow boosters",
-                    "url": "https://www.figma.com/@qurle",
-                    "date": "2022 — now"
                 }
             ]
         },
@@ -56,20 +68,12 @@
             "type": "links",
             "links": [
                 {
-                    "title": "Website",
-                    "url": "https://qurle.net"
-                },
-                {
                     "title": "GitHub",
-                    "url": "https://github.com/qurle"
-                },
-                {
-                    "title": "Telegram",
-                    "url": "https://t.me/qurle"
+                    "url": "https://github.com/adinugrhoo"
                 },
                 {
                     "title": "X / Twitter",
-                    "url": "https://x.com/nick_qurle"
+                    "url": "https://x.com/adinugrhoo"
                 }
             ]
         }
