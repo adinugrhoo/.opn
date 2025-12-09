@@ -4,6 +4,11 @@
     "description": "Senior Product Designer",
     "sections": [
         {
+            "title": "About Me",
+            "type": "text",
+            "content": "Senior Product Designer with 7+ years of experience leading digital product strategy for FinTech, SaaS, and Media sectors. Specialist in analyzing complex business requirements and translating them into intuitive user interfaces and logical workflows. Proven track record in managing product lifecycles, optimizing user journeys for high-volume transaction systems, and bridging the gap between business stakeholders and technical engineering teams."
+        },
+        {
             "title": "Experience",
             "type": "list",
             "items": [
