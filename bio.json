@@ -1,89 +1,36 @@
 {
     "version": 1,
-    "name": "Adi Nugroho",
-    "description": "Senior Product Designer",
+    "name": "Your Name",
+    "description": "A Short Description",
     "sections": [
         {
             "title": "About Me",
             "type": "text",
-            "content": "Senior Product Designer with 7+ years of experience leading digital product strategy for FinTech, SaaS, and Media sectors. Specialist in analyzing complex business requirements and translating them into intuitive user interfaces and logical workflows. Proven track record in managing product lifecycles, optimizing user journeys for high-volume transaction systems, and bridging the gap between business stakeholders and technical engineering teams."
+            "content": "A longer description about you."
         },
         {
             "title": "Experience",
             "type": "list",
             "items": [
                 {
-                    "title": "Senior Product Designer at TabSquare",
-                    "description": "",
-                    "url": "https://tabsquare.com",
-                    "date": "Dec 2020 – Present"
-                },
-                {
-                    "title": "Product Design Mentor at Binar Academy",
-                    "description": "",
-                    "url": "https://binaracademy.com",
-                    "date": "Mar 2022 – Aug 2022"
-                },
-                {
-                    "title": "Product Designer at The Shonet",
-                    "description": "",
-                    "url": "",
-                    "date": "Dec 2019 – Dec 2020"
-                },
-                {
-                    "title": "UI/UX Designer at Qerja",
-                    "description": "",
-                    "url": "https://qerja.com",
-                    "date": "Jul 2019 – Dec 2019"
-                },
-                {
-                    "title": "UI Designer at ManyPixels",
-                    "description": "",
-                    "url": "https://manypixels.co",
-                    "date": "Nov 2018 – Apr 2019"
-                },
-                {
-                    "title": "UI/UX Designer at ReadyDok Indonesia",
-                    "description": "",
-                    "url": "",
-                    "date": "May 2018 – Nov 2018"
-                },
-                {
-                    "title": "UI/UX Designer Intern at Ruangguru",
-                    "description": "",
-                    "url": "https://ruangguru.com",
-                    "date": "May 2017 – Aug 2017"
+                    "title": "Company One",
+                    "description": "Software Engineer.",
+                    "url": "https://example.com",
+                    "date": "2025–Present"
                 }
             ]
         },
         {
-            "title": "Education",
-            "type": "list",
-            "items": [
-                {
-                    "title": "Telkom University",
-                    "description": "Computer Science",
-                    "url": "https://telkomuniversity.ac.id",
-                    "date": "2014 – 2018"
-                }
-            ]
-        },
-        {
-            "title": "",
-            "type": "",
-            "content": ""
-        },
-        {
-            "title": "Contact & Socials",
+            "title": "Socials",
             "type": "links",
             "links": [
                 {
-                    "title": "LinkedIn",
-                    "url": "[LinkedIn Profile URL]"
+                    "title": "Website",
+                    "url": "https://example.com"
                 },
                 {
-                    "title": "Email",
-                    "url": "mailto:[Email Address]"
+                    "title": "GitHub",
+                    "url": "https://github.com/example"
                 }
             ]
         }
