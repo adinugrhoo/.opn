@@ -1,22 +1,53 @@
 {
     "version": 1,
-    "name": "Your Name",
-    "description": "A Short Description",
+    "name": "Nick Denisov",
+    "description": "designer with engineer mindset",
     "sections": [
         {
-            "title": "About Me",
-            "type": "text",
-            "content": "A longer description about you."
-        },
-        {
-            "title": "Experience",
+            "title": "Jobs",
             "type": "list",
             "items": [
                 {
-                    "title": "Company One",
-                    "description": "Software Engineer.",
-                    "url": "https://example.com",
-                    "date": "2025–Present"
+                    "title": "VK",
+                    "description": "Design System Designer",
+                    "url": "https://vk.company/",
+                    "date": "2024 – now"
+                },
+                {
+                    "title": "M18",
+                    "description": "UX/UI Desiner",
+                    "url": "https://m18.ru/",
+                    "date": "2022 – 2023"
+                },
+                {
+                    "title": "Yandex Practicum",
+                    "description": "Reviewer",
+                    "url": "https://practicum.yandex.ru/",
+                    "date": "2023"
+                }
+            ]
+        },
+        {
+            "title": "Projects",
+            "type": "list",
+            "items": [
+                {
+                    "title": "VKUI",
+                    "description": "Cross platfrom design system",
+                    "url": "https://vkui.io/",
+                    "date": "2025"
+                },
+                {
+                    "title": "type",
+                    "description": "Zen text editor",
+                    "url": "https://type.baby/",
+                    "date": "2024"
+                },
+                {
+                    "title": "Figma plugins",
+                    "description": "Some workflow boosters",
+                    "url": "https://www.figma.com/@qurle",
+                    "date": "2022 — now"
                 }
             ]
         },
@@ -26,11 +57,19 @@
             "links": [
                 {
                     "title": "Website",
-                    "url": "https://example.com"
+                    "url": "https://qurle.net"
                 },
                 {
                     "title": "GitHub",
-                    "url": "https://github.com/example"
+                    "url": "https://github.com/qurle"
+                },
+                {
+                    "title": "Telegram",
+                    "url": "https://t.me/qurle"
+                },
+                {
+                    "title": "X / Twitter",
+                    "url": "https://x.com/nick_qurle"
                 }
             ]
         }
